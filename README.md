@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="https://developer.android.com/studio/images/studio-icon.svg" alt="Android Logo" width="200">
+  <img src="https://developer.android.com/studio/images/studio-icon.svg" alt="Android Logo" width="50">
 </p>
 
-<h1 align="center">Android Studio E-commerce Mobile Application
+# E-commerce Android App
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg">
@@ -44,4 +44,4 @@ Android Studio is a sophisticated Integrated Development Environment (IDE) desig
 
 ```bash
 git clone https://github.com/fairytalesbrand/e-commerce-webapp-laravel.git
-open the project Android Studio
+open the Android Studio project
