@@ -3,7 +3,7 @@
   <img src="https://developer.android.com/studio/images/studio-icon.svg" alt="Android Logo" width="50">
 </p>
 
-# E-commerce Android App
+<h1 align="center"> Android Studio E-commerce Mobile Application</h1>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg">
