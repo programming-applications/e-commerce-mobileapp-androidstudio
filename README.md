@@ -49,5 +49,5 @@ open the Android Studio project
 ### Credentials
 
 <p align="center">
-  <img src="Meta Android Developer 5KZQAEKPPVLX.jpg" alt="TensorFlow Logo" width="825">
+  <img src="Meta Android Developer 5KZQAEKPPVLX.jpg" alt="Android Developer Logo" width="825">
 </p>
